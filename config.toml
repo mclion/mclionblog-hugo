@@ -9,8 +9,8 @@ disablePathToLower = false
 paginate = 10
 
 [permalinks]
-post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the old ones
-
+#post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the old ones
+post = "/:year/:month/:day/:title/"
 
 [taxonomies]
   category = "categories"

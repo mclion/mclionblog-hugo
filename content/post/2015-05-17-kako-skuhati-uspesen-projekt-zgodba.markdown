@@ -20,25 +20,27 @@ Seveda ni vsaka zgodba dobra. Definicija dobrega je subjektivna, znamo pa vse do
 
 Nekaj primerov projektov in njihove zgodbe v eni povedi:
 
-|  Produkt | Zgodba   | 
-|---|---|
-| **FaceBook** | Skupnost prijateljev za vzdrževanje stikov in ustvarjanje novih. |
-| **Twitter** | Kaj se ravnokar dogaja? |
-| **LinkedIn** | Iščem službo, rabim kader. |
-| **24ur.com** | Šokantne, seksi, zanimive novice. |
-| **slovenskenovice.si** | Šokantne, seksi, zanimive novice. |
-| **Zmenkarije** | Kjer dobim lahko zmenek, prijatelja ... |
-| **Keramični lonec** | Ker, INOX ni več zdrav ... |
-| **Colgate** | Za bolj bele zobe in dišeč zadah, dovolj je dvakrat dnevno. |
-| **Delmonte sadje** | Dobro, ker ga izbira gospod Del Monte osebno. |
-| **Hofer** | So poceni, so fer. |
-| **Ikea** | Poceni, lahko pogosto menjam pohištvo, čeprav ga ne bom. |
-| **Lego** | Kocke, ki pri otroku razvijajo ustvarjalnost. |
-| **ObalaNET** | Združujemo Obalo. |
-| **Cockta** | Pijača naše mladosti. |
-| **Mobilni telefon** | Ker sem rad povezan. |
+Produkt      | Zgodba   
+-------------|-------------
+ **FaceBook** | Skupnost prijateljev za vzdrževanje stikov in ustvarjanje novih. 
+ **Twitter** | Kaj se ravnokar dogaja? 
+ **LinkedIn** | Iščem službo, rabim kader. 
+ **24ur.com** | Šokantne, seksi, zanimive novice. 
+ **slovenskenovice.si** | Šokantne, seksi, zanimive novice. 
+ **Zmenkarije** | Kjer dobim lahko zmenek, prijatelja ... 
+ **Keramični lonec** | Ker, INOX ni več zdrav ... 
+ **Colgate** | Za bolj bele zobe in dišeč zadah, dovolj je dvakrat dnevno. 
+ **Delmonte sadje** | Dobro, ker ga izbira gospod Del Monte osebno. 
+ **Hofer** | So poceni, so fer. 
+ **Ikea** | Poceni, lahko pogosto menjam pohištvo, čeprav ga ne bom. 
+ **Lego** | Kocke, ki pri otroku razvijajo ustvarjalnost. 
+ **ObalaNET** | Združujemo Obalo. 
+ **Cockta** | Pijača naše mladosti. 
+ **Mobilni telefon** | Ker sem rad povezan. 
 
 
+
+<br>
 Zgodbe so skoraj kot razlogi, pravzaprav je pri produktih to skorajda sinonim.
 
 Včasih zgodba ne pove nič, sploh če je preveč splošna. Pri 24ur.com in Slovenskih novicah ni ločnice v pogledu uporabnika. Oboje pogosto konzumirajo brez večjih preferenc, razlika je predvsem v njihovi ciljni publiki, ki se ne prekriva preveč (politično-družbeni profili).
