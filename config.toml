@@ -44,13 +44,17 @@ post = "/:year/:month/:day/:title/"
     author = "Marko Milost - McLion"
     subtitle = "Kar pride pred moje oči in se mi zdi nujno deliti s spletnim planetom."
     searchEngineURL = "https://www.google.si/search"
+
+    authorTwitter = "@mclion"
+    domainTwitter = "mclion.eu"
+
+    defaultDescription = "Kar pride pred moje oči in se mi zdi nujno deliti s spletnim planetom."
     
     googleAnalytics = "UA-10554500-1"
     disqusShortname = "mclion"
 
     rss = true
     textrss = false
-    defaultDescription = ""
 
     sidebarRecentLimit = 6
     sidebarMenuEnabled = false
@@ -75,7 +79,6 @@ post = "/:year/:month/:day/:title/"
     facebook = "https://www.facebook.com/mclion"
     #googleplus = "https://plus.google.com/u/0/+MarkoMcLion"
     
-
 [blackfriday]
   hrefTargetBlank = true # open the external links in a new window
   fractions = false
