@@ -1,0 +1,82 @@
+languageCode = "sl-SI"
+title = "McLion's Mindstream"
+baseURL = "http://blog.mclion.eu/"
+theme = "hugo-octopress"
+disablePathToLower = false
+#publishDir = "_deploy"
+
+# Number of blog posts displayed in each page
+paginate = 10
+
+[permalinks]
+post = "/blog/:year-:month-:day-:title/" # change the post URL to look like the old ones
+
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Make tags and categories work
+[indexes]
+    tag = "tags"
+    category = "categories"
+
+[[menu.main]]
+  Name = "Blog"
+  URL = "/"
+  weight = -10
+
+[[menu.main]]
+  Name = "Moj profil"
+  URL = "https://www.linkedin.com/in/mclion/"
+  weight = -5
+
+[[menu.main]]
+  Name = "Kratke zgodbe"
+  URL = "https://twitter.com/kratkazgodba"
+  weight = -1
+
+[Params]
+    
+    continueReadingText = "Beri naprej"
+    truncate = true
+    DateForm = "2. 1. 2006"
+    author = "Marko Milost - McLion"
+    subtitle = "Kar pride pred moje oči in se mi zdi nujno deliti s spletnim planetom."
+    searchEngineURL = "https://www.google.si/search"
+    
+    googleAnalytics = "UA-10554500-1"
+    disqusShortname = "mclion"
+
+    rss = true
+    textrss = false
+    defaultDescription = ""
+
+    sidebarRecentLimit = 6
+    sidebarMenuEnabled = false
+
+    # Populate this with your own search keywords - these will appear in the meta tags
+    # defaultKeywords = ["keyword1" , "keyword2" , "keyword3" , "keyword4"]
+
+    customCSS = ["css/updates.css"]
+
+    sidebarHeader = "Marko Milost - McLion"
+    sidebarText = "![image](http://www.gravatar.com/avatar/7484067aa3ee5002669b314e9541adec)<br><br>Sledite mi lahko na:"
+    
+    #github = "https://github.com/mclion/"
+    #bitbucket = "https://bitbucket.org/parsiya/"
+    #gitlab = ""
+    twitter = "https://twitter.com/mclion/"
+    instagram = "https://www.instagram.com/mmclion/"
+    #keybase = "https://keybase.io/parsiya/"
+    #stackoverflow = ""
+    linkedin = "https://www.linkedin.com/in/mclion/"
+    #youtube = "https://www.youtube.com/user/mmclion"
+    facebook = "https://www.facebook.com/mclion"
+    #googleplus = "https://plus.google.com/u/0/+MarkoMcLion"
+    
+
+[blackfriday]
+  hrefTargetBlank = true # open the external links in a new window
+  fractions = false
+  angledQuotes = true
