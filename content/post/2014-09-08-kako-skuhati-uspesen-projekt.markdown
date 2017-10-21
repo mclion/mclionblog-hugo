@@ -2,6 +2,7 @@
 categories: 
 - internet
 - tehnologija
+- poslovno
 comments: true
 date: 2014-09-08T00:00:00Z
 share_image: /2014/recipe-book-Emily.jpg

@@ -1,4 +1,4 @@
-languageCode = "sl-SI"
+languageCode = "sl_SI"
 title = "McLion's Mindstream"
 baseURL = "http://blog.mclion.eu/"
 theme = "hugo-octopress"

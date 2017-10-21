@@ -2,7 +2,8 @@
 date: "2017-04-15T16:17:39+02:00"
 title: "Odgovornost nas pospeši"
 categories:
-    - agilni svet
+    - agilno
+    - poslovno
 comments: true
 published: true
 share_image: /2017/odgovornost-spisek.jpg

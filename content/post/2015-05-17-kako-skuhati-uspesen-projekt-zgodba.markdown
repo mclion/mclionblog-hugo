@@ -2,6 +2,7 @@
 categories: 
 - internet
 - tehnologija
+- poslovno
 comments: true
 date: 2015-05-17T00:00:00Z
 published: true
