@@ -6,7 +6,7 @@ categories:
 comments: true
 date: 2015-05-17T00:00:00Z
 published: true
-share_image: /2015/facebook-story.jpg
+thumbnail: images/2015/facebook-story.jpg
 title: Kako skuhati uspešen projekt - Zgodba
 url: /2015/05/17/kako-skuhati-uspesen-projekt-zgodba/
 ---

@@ -3,7 +3,7 @@ categories:
 - zgodbe
 comments: true
 date: 2014-08-15T00:00:00Z
-share_image: /2014/gozd-pot.jpg
+thumbnail: images/2014/gozd-pot.jpg
 title: Ko sem izgubil pot ...
 url: /2014/08/15/ko-sem-izgubil-pot/
 ---

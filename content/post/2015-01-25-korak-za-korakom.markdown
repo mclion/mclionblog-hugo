@@ -3,7 +3,7 @@ categories:
 - zgodbe
 comments: true
 date: 2015-01-25T00:00:00Z
-share_image: /2015/winter-runner.jpg
+thumbnail: images/2015/winter-runner.jpg
 title: Korak za korakom, tek!
 url: /2015/01/25/korak-za-korakom/
 ---

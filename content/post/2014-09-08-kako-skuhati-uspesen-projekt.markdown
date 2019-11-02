@@ -5,7 +5,7 @@ categories:
 - poslovno
 comments: true
 date: 2014-09-08T00:00:00Z
-share_image: /2014/recipe-book-Emily.jpg
+thumbnail: images/2014/recipe-book-Emily.jpg
 title: Kako skuhati uspešen projekt?
 url: /2014/09/08/kako-skuhati-uspesen-projekt/
 ---

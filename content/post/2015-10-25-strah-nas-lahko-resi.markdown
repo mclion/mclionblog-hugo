@@ -5,7 +5,7 @@ categories:
 comments: true
 date: 2015-10-25T00:00:00Z
 published: true
-share_image: /2015/weepingangel.jpg
+thumbnail: images/2015/weepingangel.jpg
 title: Strah nas lahko reši
 url: /2015/10/25/strah-nas-lahko-resi/
 ---

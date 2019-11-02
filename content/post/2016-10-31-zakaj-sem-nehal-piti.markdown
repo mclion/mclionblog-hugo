@@ -4,7 +4,7 @@ categories:
 comments: true
 date: 2016-10-31T00:00:00Z
 published: true
-share_image: /2016/vino_v_kozarec.jpg
+thumbnail: images/2016/vino_v_kozarec.jpg
 title: Zakaj sem nehal piti
 url: /2016/10/31/zakaj-sem-nehal-piti/
 ---

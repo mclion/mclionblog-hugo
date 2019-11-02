@@ -3,7 +3,7 @@ categories:
 - zabava
 comments: true
 date: 2013-11-16T00:00:00Z
-share_image: /2013/marko-mclion-in-blowrider.jpg
+thumbnail: images/2013/marko-mclion-in-blowrider.jpg
 title: Ko sem špilal glavnega igralca v videospotu
 url: /2013/11/16/ko-sem-bil-glavni-igralec-v-videospotu/
 ---

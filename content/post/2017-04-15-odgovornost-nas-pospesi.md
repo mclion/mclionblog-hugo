@@ -6,7 +6,7 @@ categories:
     - poslovno
 comments: true
 published: true
-share_image: /2017/odgovornost-spisek.jpg
+thumbnail: images/2017/odgovornost-spisek.jpg
 ---
 
 Sposobnost človeka, da dela ogromno časa z veliko vnemo, se pozno iztroši in posledično naredi mnogo za malo denarja, ni glavna poslovna prednost v svetu agilnega razvoja.

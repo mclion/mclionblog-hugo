@@ -5,7 +5,7 @@ categories:
 - poslovno
 comments: true
 date: 2014-09-30T00:00:00Z
-share_image: /2014/xooltime2013.jpg
+thumbnail: images/2014/xooltime2013.jpg
 title: 'Kako skuhati uspešen projekt: Ekipa'
 url: /2014/09/30/kako-skuhati-uspesen-projekt-ekipa/
 ---

@@ -1,7 +1,12 @@
-languageCode = "sl_SI"
+languageCode = "sl-SI"
 title = "McLion's Mindstream"
-baseURL = "http://blog.mclion.eu/"
-theme = "hugo-octopress"
+baseURL = "https://blog.mclion.eu/"
+#theme = "hugo-octopress"
+theme = "mainroad"
+googleAnalytics = "UA-10554500-1"
+disqusShortname = "mclion"
+defaultContentLanguage = "sl"
+
 disablePathToLower = false
 #publishDir = "_deploy"
 
@@ -36,48 +41,93 @@ post = "/:year/:month/:day/:title/"
   URL = "https://twitter.com/kratkazgodba"
   weight = -1
 
+
+[Author] # Used in authorbox
+  name = "Marko Milost - McLion"
+  bio = "Poslušam. Rešujem. Spreminjam. Izboljšujem. S tipkanjem. S pisanjem."
+  avatar = "https://www.gravatar.com/avatar/7484067aa3ee5002669b314e9541adec"
+
+
+
 [Params]
-    
-    continueReadingText = "Beri naprej"
-    truncate = true
-    DateForm = "2. 1. 2006"
-    author = "Marko Milost - McLion"
-    subtitle = "Kar pride pred moje oči in se mi zdi nujno deliti s spletnim planetom."
-    searchEngineURL = "https://www.google.si/search"
+  subtitle = "Kar pride pred moje oči in se mi zdi nujno deliti s spletnim planetom." # Subtitle of your site. Used in site header
+  description = "Kar pride pred moje oči in se mi zdi nujno deliti s spletnim planetom." # Site description. Used in meta description
+  copyright = "Marko Milost - McLion" # Footer copyright holder, otherwise will use site title
+  opengraph = true # Enable OpenGraph if true
+  twitter_cards = true # Enable Twitter Cards if true
+  readmore = true # Show "Read more" button in list if true
+  authorbox = true # Show authorbox at bottom of pages if true
+  toc = false # Enable Table of Contents
+  post_navigation = true # Show post navigation at bottom of pages if true
+  post_meta = ["date", "categories", "translations"] # Order of post meta information
+  mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  dateformat = "2006-01-02" # Change the format of dates
+  mathjax = false # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+  highlightColor = "#2884e0" # Override highlight color
+  #customCSS = ["css/updates.css"] # Include custom CSS files
+  #customJS = ["js/custom.js"] # Include custom JS files
+  
+  continueReadingText = "Beri naprej"
+  truncate = true
+  DateForm = "2. 1. 2006"
+  author = "Marko Milost - McLion"
+  searchEngineURL = "https://www.google.si/search"
 
-    authorTwitter = "@mclion"
-    domainTwitter = "mclion.eu"
+  authorTwitter = "@mclion"
+  domainTwitter = "mclion.eu"
 
-    defaultDescription = "Kar pride pred moje oči in se mi zdi nujno deliti s spletnim planetom."
-    
-    googleAnalytics = "UA-10554500-1"
-    disqusShortname = "mclion"
+  # googleAnalytics = "UA-10554500-1"
+  # disqusShortname = "mclion"
 
-    rss = true
-    textrss = false
+  rss = true
+  textrss = false
 
-    sidebarRecentLimit = 6
-    sidebarMenuEnabled = false
+  sidebarRecentLimit = 6
+  sidebarMenuEnabled = false
 
-    # Populate this with your own search keywords - these will appear in the meta tags
-    # defaultKeywords = ["keyword1" , "keyword2" , "keyword3" , "keyword4"]
+  sidebarHeader = "Marko Milost - McLion"
+  sidebarText = "![image](https://www.gravatar.com/avatar/7484067aa3ee5002669b314e9541adec)<br><br>Sledite mi lahko na:"
+  
+  #github = "https://github.com/mclion/"
+  #bitbucket = "https://bitbucket.org/parsiya/"
+  #gitlab = ""
+  twitter = "https://twitter.com/mclion/"
+  instagram = "https://www.instagram.com/mmclion/"
+  #keybase = "https://keybase.io/parsiya/"
+  #stackoverflow = ""
+  linkedin = "https://www.linkedin.com/in/mclion/"
+  #youtube = "https://www.youtube.com/user/mmclion"
+  facebook = "https://www.facebook.com/mclion"
+  #googleplus = "https://plus.google.com/u/0/+MarkoMcLion"
+  
+  
 
-    customCSS = ["css/updates.css"]
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  single = true # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "social", "categories", "taglist", "languages"]
 
-    sidebarHeader = "Marko Milost - McLion"
-    sidebarText = "![image](http://www.gravatar.com/avatar/7484067aa3ee5002669b314e9541adec)<br><br>Sledite mi lahko na:"
-    
-    #github = "https://github.com/mclion/"
-    #bitbucket = "https://bitbucket.org/parsiya/"
-    #gitlab = ""
-    twitter = "https://twitter.com/mclion/"
-    instagram = "https://www.instagram.com/mmclion/"
-    #keybase = "https://keybase.io/parsiya/"
-    #stackoverflow = ""
-    linkedin = "https://www.linkedin.com/in/mclion/"
-    #youtube = "https://www.youtube.com/user/mmclion"
-    facebook = "https://www.facebook.com/mclion"
-    #googleplus = "https://plus.google.com/u/0/+MarkoMcLion"
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "mclion"
+  twitter = "mclion"
+  instagram = "mmclion"
+  linkedin = "mclion"
+  telegram = "mmclion"
+  github = "mclion"
+  #gitlab = "username"
+  #bitbucket = "username"
+  #email = "marko@mclion.eu"
+
+
     
 [blackfriday]
   hrefTargetBlank = true # open the external links in a new window

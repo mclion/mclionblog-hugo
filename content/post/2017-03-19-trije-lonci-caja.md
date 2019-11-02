@@ -6,7 +6,7 @@ categories:
     - blebetanje
 comments: true
 published: true
-share_image: /2017/loncki.jpg
+thumbnail: images/2017/loncki.jpg
 ---
 
 Zunaj stojim. Na vrtu, pod velikim starim **iglavcem**. Če bi v šoli bolj sledil, bi ga poznal po imenu ... Tako je zame le velik stari iglavec. 

@@ -3,7 +3,7 @@ categories:
 - zgodbe
 comments: true
 date: 2014-04-13T00:00:00Z
-share_image: /2014/obmorju.jpg
+thumbnail: images/2014/obmorju.jpg
 title: Ko me je Evelin poklicala
 url: /2014/04/13/ko-me-je-poklicala-evelin/
 ---

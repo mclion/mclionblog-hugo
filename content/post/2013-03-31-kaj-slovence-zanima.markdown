@@ -3,7 +3,7 @@ categories:
 - internet
 comments: true
 date: 2013-03-31T00:00:00Z
-share_image: /2013/garden-hose.jpg
+thumbnail: images/2013/garden-hose.jpg
 title: Kaj Slovence zanima?
 url: /2013/03/31/kaj-slovence-zanima/
 ---

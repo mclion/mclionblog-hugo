@@ -5,10 +5,10 @@ categories:
     - zgodbe
     - zabava
 comments: true
-share_image: /2017/primoz-trubar-zombie.jpg
+thumbnail: images/2017/primoz-trubar-zombie.jpg
 ---
 
-**Pošasti so med nami**. Prave **pošasti**. Pogosto se skrivajo v popolnoma normalnih ljudeh in situacijah, do trenutka, ko jih normalnost zapusti. Strah nas je pošasti, saj jih večinoma ne znamo ločiti od navadnih oseb, stvari oz. situacij. 
+**Pošasti so med nami**. Prave pošasti. Pogosto se skrivajo v popolnoma normalnih ljudeh in situacijah, do trenutka, ko jih normalnost zapusti. Strah nas je pošasti, saj jih večinoma ne znamo ločiti od navadnih oseb, stvari oz. situacij. 
 
 Saj poznate zgodbo **soseda**, ki je bil odličen človek, dokler ni ubil svoje žene, otrok in si sodil sam ... Ali pa tisti **policist**, ki je leta vestno opravljal svoje dolžnosti, dokler ... Ali pa tisti filmski **režiser/producent**, ki je igralske sposobnosti igralk ocenjeval s spodnjo glavo ... Da o **duhovnikih**, ki pod besedo "celibat" razumejo "dovoljeno otipavanje fantkov" sploh ne izgubljam besed. 
 

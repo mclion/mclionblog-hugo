@@ -3,7 +3,7 @@ categories:
 - internet
 comments: true
 date: 2013-03-23T00:00:00Z
-share_image: /2013/22-GitHub-588x450.png
+thumbnail: images/2013/22-GitHub-588x450.png
 title: Zbogom Posterous, dobrodošel Github!
 url: /2013/03/23/zbogom-posterous/
 ---

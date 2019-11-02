@@ -3,7 +3,7 @@ categories:
 - zabava
 comments: true
 date: 2013-05-09T00:00:00Z
-share_image: /2013/mclion_camera.jpg
+thumbnail: images/2013/mclion_camera.jpg
 title: Ko sem se igral režiserja in posnel reklamo
 url: /2013/05/09/ko-sem-se-igral-reziserja-in-posnel-reklamo/
 ---
